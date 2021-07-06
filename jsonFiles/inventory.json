@@ -1,0 +1,27 @@
+{
+  "inventoryDetails" : [
+
+    {
+      "type" : "rice",
+      "name" : "basmati",
+      "weight" :15.25,
+      "pricePerKg" : 70.50
+    },
+
+
+    {
+      "type" : "pulses",
+      "name" : "garden peas",
+      "weight" : 20.80,
+      "pricePerKg" : 90.3
+    },
+
+
+    {
+      "type" : "wheat",
+      "name" : "common wheat",
+      "weight" : 10.60,
+      "pricePerKg" : 30.5
+    }
+  ]
+}
