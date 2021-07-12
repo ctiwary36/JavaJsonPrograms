@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/inventorymanagment.iml" filepath="$PROJECT_DIR$/inventorymanagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonprogram.iml" filepath="$PROJECT_DIR$/jsonprogram.iml" />
     </modules>
   </component>
 </project>
